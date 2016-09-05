@@ -1,0 +1,38 @@
+{
+    "name": "Earth",
+    "epochs": [
+        {
+            "name": "0_1000_0000", 
+            "start_age": 1000,
+			"end_age": 0, 
+            "areas": [
+                {
+                    
+ "dispersalValues": [ 0.5, 0.5, 0.5, 0.5 ],
+					"extinctionValues": [ 0.0 ],
+                    "name": "H"
+
+                }, 
+                {
+                    
+"dispersalValues": [ 0.5, 0.5, 0.5, 0.5 ],
+					"extinctionValues": [ 0.405 ],
+                    "name": "O"
+                }, 
+                {
+                   
+"dispersalValues": [ 0.5, 0.5, 0.5, 0.5 ],
+					"extinctionValues": [ 0.41],
+                    "name": "K"
+                },
+                
+		{
+"dispersalValues": [ 0.5, 0.5, 0.5, 0.5 ],
+					"extinctionValues": [ 0.36 ],
+                    "name": "M"
+                } 
+               
+            ]
+        }
+    ]
+}
